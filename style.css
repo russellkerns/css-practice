@@ -1,0 +1,13 @@
+h1{
+    text-align:center;
+}
+
+body{
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+}
+/*div{
+    align-items: center;
+    flex-direction: column;
+}
